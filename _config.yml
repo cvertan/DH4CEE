@@ -1,1 +1,1 @@
-gem: jekyll-theme-leap-day
+gem "jekyll-theme-leap-day"
